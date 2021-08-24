@@ -34,8 +34,8 @@ is when somebody else comes along and edits the sheet.  Likely they will expect
 a 'total' or a 'conversion' column to auto update.  They might well not check.
 
 !!! summary
-This is a deliberately basic course.  We cover how to use spreadsheets
-*explicitly*.  If you want everything to look clean and tidy, use a specialised package.
+    This is a deliberately basic course.  We cover how to use spreadsheets
+    *explicitly*.  If you want everything to look clean and tidy, use a specialised package.
 
 # Following the course
 
@@ -50,4 +50,5 @@ implementing the exercises.
 If you find a mistake or have a suggestion, open an
 [issue](https://github.com/2e0byo/spreadsheets/issues) or [pull
 request](https://github.com/2e0byo/spreadsheets/pulls) in the git repo for this
-website.
+website.  Or you can just click the pencil icon next to each section to edit the
+source directly and start your pull request like that.
