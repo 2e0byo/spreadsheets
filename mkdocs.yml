@@ -13,7 +13,8 @@ nav:
 - Introduction:
     - Theory: introduction/theory.md
     - Practice: introduction/practice.md
-- Basic Concepts: basic.md
+- Basic Concepts:
+    - Maths: basic/maths.md
 - Exercises: exercises.md
 - Advanced: advanced.md
 
