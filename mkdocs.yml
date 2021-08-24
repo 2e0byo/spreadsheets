@@ -10,9 +10,11 @@ nav:
   - Overview: index.md
   - Changelog: changelog.md
   - License: license.md
-- Introduction: introduction.md
-- Basic Exercises: basic.md
-- Scenarios: scenarios.md
+- Introduction:
+    - Theory: introduction/theory.md
+    - Practice: introduction/practice.md
+- Basic Concepts: basic.md
+- Exercises: exercises.md
 - Advanced: advanced.md
 
 theme:
