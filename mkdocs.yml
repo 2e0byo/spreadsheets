@@ -17,7 +17,14 @@ nav:
     - Maths: basic/maths.md
     - Formulas: basic/formulas.md
     - Formatting: basic/formatting.md
-- Exercises: exercises.md
+- Exercises:
+    - Introduction: exercises/intro.md
+    - Basic Accounts: exercises/basic-accounts.md
+    - Fancier Accounts: exercises/fancier.md
+    - Overtime: exercises/overtime.md
+    - Overtime Accounts: exercises/overtime-accounts.md
+    - Convenience: exercises/convenience.md
+    - Finishing Up: exercises/final.md
 - Advanced: advanced.md
 
 theme:
