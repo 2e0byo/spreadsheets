@@ -1,0 +1,40 @@
+site_name: "Bob's Guide to Spreadsheets"
+site_description: "Spreadsheet Tutorial"
+site_url: "https://2e0byo.github.io/spreadsheets"
+repo_url: "https://github.com/2e0byo/spreadsheets"
+repo_name: "2e0byo/spreadsheets"
+site_dir: "site"
+
+nav:
+- Start:
+  - Overview: index.md
+  - Changelog: changelog.md
+  - License: license.md
+- Introduction: introduction.md
+- Basic Exercises: basic.md
+- Scenarios: scenarios.md
+- Advanced: advanced.md
+
+theme:
+  name: material
+  features:
+  - navigation.tabs
+  palette:
+    scheme: slate
+    primary: teal
+    accent: purple
+
+markdown_extensions:
+- admonition
+- pymdownx.emoji
+- pymdownx.magiclink
+- pymdownx.snippets:
+    check_paths: true
+- pymdownx.superfences
+- pymdownx.tabbed
+- pymdownx.tasklist
+- toc:
+    permalink: "¤"
+
+plugins:
+- search
