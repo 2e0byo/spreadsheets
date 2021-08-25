@@ -24,7 +24,7 @@ nav:
     - Overtime: exercises/overtime.md
     - Overtime Accounts: exercises/overtime-accounts.md
     - Convenience: exercises/convenience.md
-    - Finishing Up: exercises/final.md
+    - User Friendly: exercises/final.md
 - Advanced: advanced.md
 
 theme:
