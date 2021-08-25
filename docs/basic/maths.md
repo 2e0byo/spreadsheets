@@ -1,4 +1,4 @@
-# Operators
+## Operators
 
 The standard algebraic operators are available.
 
@@ -13,11 +13,11 @@ The standard algebraic operators are available.
 !!! tip
     To use any kind of operator in a cell, you need to start with `=`.
     
-# References
+## References
 You reference the value of another cell by writing its cartesian address (e.g.
 `A1`). You reference a *range* of values with a `:`, e.g. `A1:B2`.
 
-# Autofilling
+## Autofilling
 Enter 1 in `A1`.  Enter 1 in `A2`.  Select `A1` and `A2` with the mouse.  In the
 bottom right hand corner of the selection a small handle/plus sign appears.
 Drag it down and the spreadsheet will fill in the numbers between 1 and 10.
@@ -41,7 +41,7 @@ Drag it down and the spreadsheet will fill in the numbers between 1 and 10.
     Now delete column C and enter `=2*$A1` into `B1` and autofill in both
     directions again.
     
-# Basic operations
+## Basic operations
 
 !!! note "Exercise"
 

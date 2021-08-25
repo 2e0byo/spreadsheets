@@ -1,4 +1,4 @@
-# Which package?
+## Which package?
 
 Largely this is a question of where you find yourself.  The kind of spreadsheet
 editing we are going to do will work equally well in come overpriced behemoth
@@ -9,7 +9,7 @@ Use whichever program you will continue to use.  If you do not have a
 spreadsheet package installed and have a good internet connection, use Google
 Sheets.  Otherwise install *Libre Office* and use *Calc*.
 
-# Basic layout
+## Basic layout
 
 > Thus, since he wants science, I shall enumerate my responses.  And to be even
 > more scientific, I shall enumerate them with *letters*.

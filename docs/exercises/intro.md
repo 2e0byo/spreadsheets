@@ -1,4 +1,4 @@
-# Hello to Bob
+## Hello to Bob
 
 It is time to introduce you to Bob.  Bob will have a lot to say (generally in
 the imperative) for the rest of this course.  But it's a good idea to get an
@@ -11,7 +11,7 @@ Here is a picture of Bob, camping:
 Bob dresses like this every time he goes camping.  He never dresses like this at
 any other point.  This tells you a lot about Bob.
 
-# Following these exercises
+## Following these exercises
 
 Each exercise builds on the previous.  I suggest you make a folder (or
 directory) for them, and name your first spreadsheet something like `ex1.ods`.

@@ -1,4 +1,4 @@
-# Two ways of working
+## Two ways of working
 
 Let's start with two pictures.  Firstly, we have an accountant in Dickens' time.
 He sits stooped over a desk, on the low-ceilinged second floor of a building

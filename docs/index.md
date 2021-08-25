@@ -37,7 +37,7 @@ a 'total' or a 'conversion' column to auto update.  They might well not check.
     This is a deliberately basic course.  We cover how to use spreadsheets
     *explicitly*.  If you want everything to look clean and tidy, use a specialised package.
 
-# Following the course
+## Following the course
 
 Worked examples are not (yet) provided.  However if you start at the beginning
 and work through, everything should (hopefully) become clear.  In any case the
@@ -45,7 +45,7 @@ idea is not to show you how-to-click-on-this-it-of-the-window, but to get you to
 work out how, *with your particular spreadsheet package* you would go about
 implementing the exercises.
 
-# Feedback
+## Feedback
 
 If you find a mistake or have a suggestion, open an
 [issue](https://github.com/2e0byo/spreadsheets/issues) or [pull
