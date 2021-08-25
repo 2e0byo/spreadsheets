@@ -34,7 +34,7 @@ don't like ribbon layouts).
 Along the bottom of the screen are some tabs.  The first of these should be
 selected.  These allow you to switch (and create) *sheets*.
 
-!!! Example "Exercise" 
+!!! Example "Exercise"
 
     Type something into cell A1. Now click on the little tab
     to the right of the tab for this sheet at the bottom. (You may instead have
