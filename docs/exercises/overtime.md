@@ -1,5 +1,3 @@
-## Overtime
-
 Bob is even more impressed.  He plans to ask about tax soon.  That shows he's
 really impressed, because he doesn't trust anyone, so he never talks about
 tax.  (Bob is rather paranoid about tax, and thinks HMRC are **actually**
@@ -14,3 +12,18 @@ Bob's hours are 9-5 with an hour off for lunch.  Anything more is overtime.
 Overtime is paid at 177% his hourly rate (which is still £25/hour after tax).
 Make a calculator spreadsheet where Bob can enter an amount of hours and be
 told how much he will earn.
+
+!!! Tip
+
+    Parametrise your calculation.  (i.e. put the overtime rate in a cell where
+    it can be modified.)
+    
+    Use invariant referencing with `$` so you can drag-complete multiple lines.
+    
+??? Help
+
+    If stuck, think about what you want the output to look like.  Make a mockup.
+    Then think about where the numbers come from, and replace them with
+    calculations.
+    
+    If you need to, review the sections on spreadsheet maths and formulas.

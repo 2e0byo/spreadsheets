@@ -1,5 +1,3 @@
-## Fancier Accounts
-
 Bob is impressed.  But your spreadsheet is boring, and a bit hard to read.
 Bob wants it to be colourful: if he earns a particularly large sum he wants
 it to be in green, and if he spends a particularly large amount he wants it

@@ -1,5 +1,3 @@
-## Basic Accounts
-
 Bob earns money.  He also spends it.  Bob is not very good at money.  He
 spends a lot, and he earns a lot.  In fact, he spends so much he has *lots*
 of different jobs; and he earns so much he has *lots* of expenditure.  Up
