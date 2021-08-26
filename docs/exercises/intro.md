@@ -11,6 +11,13 @@ Here is a picture of Bob, camping:
 Bob dresses like this every time he goes camping.  He never dresses like this at
 any other point.  This tells you a lot about Bob.
 
+Here is another photo of Bob:
+
+![Bob2](bob2.jpg)
+
+This photo is on file with the Her Majesty's Revenue and Customs.  Bob doesn't
+know that it exists, but if he did he would be even more keen to hire you.
+
 ## Following these exercises
 
 Each exercise builds on the previous.  I suggest you make a folder (or
