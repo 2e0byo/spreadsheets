@@ -2,7 +2,7 @@
 
 Bob is even more impressed.  He plans to ask about tax soon.  That shows he's
 really impressed, because he doesn't trust anyone, so he never talks about
-tax.  (Bob is rather paranoid about tax, and thinks the IRS are **actually**
+tax.  (Bob is rather paranoid about tax, and thinks HMRC are **actually**
 vampires.  He carries a garlic-soaked cocktail stick he nicked from a bowl of
 olives in his jacket pocket, just in case.)
 
