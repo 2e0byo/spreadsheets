@@ -26,6 +26,7 @@ nav:
     - Convenience: exercises/convenience.md
     - User Friendly: exercises/final.md
 - Advanced: advanced.md
+- Going Forwards: going-forwards.md
 
 theme:
   name: material
