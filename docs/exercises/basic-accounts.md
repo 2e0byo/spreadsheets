@@ -20,6 +20,11 @@ month in insurance, and he wants this included in the weekly total.  (Bob
 spent these over the week, but doesn't care too much about which day, so he
 wants you to consider outgoings on a weekly basis.)
 
+??? Tip
+
+    You probably decided to note those values down.  Note them down *in a
+    spreadsheet*.  (If you thought of that, congratulations.)
+
 Bob also works a lot. He works as a Judo instructor in the weekday evenings,
 for 3 hours a week at £15 an hour. He works as a management consultant in the
 day, between 9 and 5 with an hour off for lunch, and is paid £25 and hour
@@ -34,3 +39,26 @@ shows him at a glance what he has earned, what he has paid, and what portion
 of his larger outgoings should be counted against this period.
 
 Make such a spreadsheet.
+
+??? Tip
+
+    Organise your data with a column for incomings and a column for outgoings.
+    That way you can avoid sign errors (typing negative numbers quickly gets
+    dull).  Or you might want specific columns.  Use rows for dates.  Don't
+    split your spreadsheet in two halfway down as though it were a paper sheet:
+    it's easy to scroll and miss the division.
+    
+??? Help
+
+    Start with what you know.  Bob has given you some things at a daily rate,
+    and others weekly.  This is annoying, but very typical.  It's probably
+    better to work daily and enter transactions against the last day (or first
+    day) of the week.
+    
+    A 'Sundries' column will save you making a specific entry for *everything*
+    if you decide to have specific columns.
+    
+    Use a formula to calculate the share of monthly expenses which should be
+    counted this week.  Make the calculation *explicit*.  (Do you now need
+    another column for the monthly rate?  How are you going to store it?  Where
+    is it clearest?)
