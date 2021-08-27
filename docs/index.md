@@ -19,7 +19,7 @@ them fall into one of two conceptual mistakes:
 The first error is generally encountered either in corporations where someone
 (rarely the end user) has written a bunch of 'macros' in something horrible like
 Visual Basic (the aptly named programming language of the Micro$oft Windoze
-[Almost]Operating System), which get applied pretty haphazard to all kinds of
+[Almost]Operating System), which get applied pretty haphazardly to all kinds of
 scenarios.  The problem here is that *the end user does not know how that macro
 works* and _the programmer has generally not predicted that the end user would
 format data like **that**_.  This stems from the real strength of spreadsheets:
