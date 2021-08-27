@@ -6,7 +6,7 @@ idea of him in advance.
 
 Here is a picture of Bob, camping:
 
-<!-- Primus image here. -->
+![Bob1](bob1.jpg)
 
 Bob dresses like this every time he goes camping.  He never dresses like this at
 any other point.  This tells you a lot about Bob.
