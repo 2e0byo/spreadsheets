@@ -28,7 +28,7 @@ Drag it down and the spreadsheet will fill in the numbers between 1 and 10.
     updated by row if you drag down or by column if you drag across.  If you do
     not want a reference to be updated, prefix it with `$`.  Thus `$A1` will not
     update if dragged across, but will update if dragged down, whilst `A$1` will
-    not update if dragged down, but will update if dragged down, and `$A$1` will
+    not update if dragged down, but will update if dragged across, and `$A$1` will
     not change in either direction.  
     
 
