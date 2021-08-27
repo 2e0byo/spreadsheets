@@ -1,7 +1,7 @@
 ## Which package?
 
 Largely this is a question of where you find yourself.  The kind of spreadsheet
-editing we are going to do will work equally well in come overpriced behemoth
+editing we are going to do will work equally well in some overpriced behemoth
 like *Excel* or something feather light like *Gnumeric*.  With a bit of adaption
 it will work in *Emacs Org-Mode*.
 
