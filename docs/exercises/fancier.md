@@ -11,7 +11,7 @@ accountant, but it is not the only help the poor man needs.)
     accountant you should make a mental note that this is another outgoing.
     Think now: how would you adapt your sheet to add another monthly bill?
 
-Change your spreadsheet so incomings greater than £75 (in one day) are
+Change your spreadsheet so incomings greater than £320 (in one day) are
 highlighted in green, and outgoings greater than £60 are in bold red.  Bob
 will test that you have really done it by changing some numbers: the red and
 green should come and go as the numbers change.
