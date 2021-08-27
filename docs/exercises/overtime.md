@@ -9,7 +9,7 @@ he's bad at accounts, he doesn't record the amount of overtime he's done.  He
 just records the **total** amount, and wants you to make a calculator.
 
 Bob's hours are 9-5 with an hour off for lunch.  Anything more is overtime.
-Overtime is paid at 177% his hourly rate (which is still £25/hour after tax).
+Overtime is paid at 177% his hourly rate (which is still £35/hour after tax).
 Make a calculator spreadsheet where Bob can enter an amount of hours and be
 told how much he will earn.
 
