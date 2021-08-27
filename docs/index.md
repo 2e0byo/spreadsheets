@@ -41,8 +41,8 @@ a 'total' or a 'conversion' column to auto update.  They might well not check.
 
 Worked examples are not (yet) provided.  However if you start at the beginning
 and work through, everything should (hopefully) become clear.  In any case the
-idea is not to show you how-to-click-on-this-it-of-the-window, but to get you to
-work out how, *with your particular spreadsheet package* you would go about
+idea is not to show you how-to-click-on-this-bit-of-the-window, but to get you to
+work out how, *with your particular spreadsheet package*, you would go about
 implementing the exercises.
 
 ## Feedback
