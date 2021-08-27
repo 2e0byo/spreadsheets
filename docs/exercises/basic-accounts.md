@@ -25,7 +25,7 @@ wants you to consider outgoings on a weekly basis.)
 
 Bob also works a lot. He works as a Judo instructor in the weekday evenings,
 for 3 hours a week at £15 an hour. He works as a management consultant in the
-day, between 9 and 5 with an hour off for lunch, and is paid £25 and hour
+day, between 9 and 5 with an hour off for lunch, and is paid £35 an hour
 (after tax) to give confusing advice and tell companies they need to fire
 people. He never tells them to fire *him*. Naturally. Also, he works sometimes
 as a rugby referee. This Saturday he was paid a £50 flat fee for a game.
