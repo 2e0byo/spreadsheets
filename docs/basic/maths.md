@@ -18,7 +18,7 @@ You reference the value of another cell by writing its cartesian address (e.g.
 `A1`). You reference a *range* of values with a `:`, e.g. `A1:B2`.
 
 ## Autofilling
-Enter 1 in `A1`.  Enter 1 in `A2`.  Select `A1` and `A2` with the mouse.  In the
+Enter 1 in `A1`.  Enter 2 in `A2`.  Select `A1` and `A2` with the mouse.  In the
 bottom right hand corner of the selection a small handle/plus sign appears.
 Drag it down and the spreadsheet will fill in the numbers between 1 and 10.
 
