@@ -65,6 +65,6 @@ Drag it down and the spreadsheet will fill in the numbers between 1 and 10.
     Add a single cell adding up all the totals.  Don't use a formula (yet).  
     How might you do it *without* typing in all the cell values?  
     
-??? Hint:
+??? Hint
 
     how could you use filling to help?
