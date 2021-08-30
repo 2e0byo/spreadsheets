@@ -10,8 +10,8 @@ just records the **total** amount, and wants you to make a calculator.
 
 Bob's hours are 9-5 with an hour off for lunch.  Anything more is overtime.
 Overtime is paid at 177% his hourly rate (which is still £35/hour after tax).
-Make a calculator spreadsheet where Bob can enter an amount of hours and be
-told how much he will earn.
+Make a calculator spreadsheet where Bob can enter the amount of hours he worked
+in a given dayand be told how much he will earn.
 
 !!! Tip
 
