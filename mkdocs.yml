@@ -25,7 +25,12 @@ nav:
     - Overtime Accounts: exercises/overtime-accounts.md
     - Convenience: exercises/convenience.md
     - User Friendly: exercises/final.md
-- Advanced: advanced.md
+- Advanced:
+    - Introduction: advanced/intro.md
+    - Generating Data: advanced/ex1.md
+    - Importing Data: advanced/ex2.md
+    - Layout: advanced/ex3.md
+    - Pivot Table: advanced/ex4.md
 - Going Forwards: going-forwards.md
 
 theme:
